@@ -13,10 +13,16 @@ Mohamed Azab fresh graduated student with an excellent grade in graduation proje
 
 **Languages and Tools:**  
 
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/rust.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/php.png"></code>
+<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/html.png"></code>
+<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/css.png"></code>
+<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/JavaScript.png"></code>
+<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/bootstrap.png"></code>
+<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/jquery.png"></code>
+<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/ajax.png"></code>
+<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/json1.png"></code>
 <code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/php.png"></code>
-<code><img height="40" src="https://github.com/moazab87/moazab87/master/assets/laravel.png"></code>  
+<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/oop.png"></code>
+<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/mysql.png"></code>
+<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/laravel.png"></code>
+<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/api.png"></code>
+<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/git.png"></code>
