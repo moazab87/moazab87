@@ -8,8 +8,9 @@ Mohamed Azab fresh graduated student with an excellent grade in graduation proje
 <br>
 
 <p align="center">
-<button style="background-color:#000">
-  <a href="https://www.linkedin.com/in/mohamed-azab-4724641a0/"><code><img height="10" src="https://github.com/moazab87/moazab87/blob/main/assets/linkedin.png"></code> Linkedin</a></button>
+  <button style="background-color:#000">
+    <a href="https://www.linkedin.com/in/mohamed-azab-4724641a0/"><img height="10" src="https://github.com/moazab87/moazab87/blob/main/assets/linkedin.png">Linkedin</a>
+  </button>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
