@@ -25,7 +25,7 @@ Mohamed Azab fresh graduated student with an excellent grade in graduation proje
   </tr>
   <tr>
     <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/ajax.png"></code></td>
-    <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/json1.png"></code></td>
+    <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/json.png"></code></td>
     <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/php.png"></code></td>
     <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/oop.png"></code></td>
     <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/mysql1.png"></code></td>
