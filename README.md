@@ -10,6 +10,7 @@ Mohamed Azab fresh graduated student with an excellent grade in graduation proje
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=moazab87&theme=highcontrast&show_icons=true&count_private=true)
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=moazab87&layout=compact) -->
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=moazab87)
 
 <br> <br>
 
