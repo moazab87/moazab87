@@ -31,18 +31,26 @@ Mohamed Azab fresh graduated student with an excellent grade in graduation proje
 
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/html.png"></code></td>
+    <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/css.png"></code></td>
+    <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/bootstrap.png"></code></td>
+    <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/JavaScript.png"></code></td>
+    <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/jquery.png"></code></td>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/ajax.png"></code></td>
+    <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/json1.png"></code></td>>
+    <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/php.png"></code></td>
+    <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/oop.png"></code></td>>
+    <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/mysql.png"></code></td>
   </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+  <tr
+  </tr>
+  <tr
+    <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/laravel.png"></code></td>
+    <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/api.png"></code></td>
+    <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/git.png"></code></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
