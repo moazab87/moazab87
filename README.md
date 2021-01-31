@@ -35,7 +35,5 @@ Mohamed Azab fresh graduated student with an excellent grade in graduation proje
     <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/api.png"></code></td>
     <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/git.png"></code></td>
     <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/DS.png"></code></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
