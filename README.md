@@ -15,20 +15,6 @@ Mohamed Azab fresh graduated student with an excellent grade in graduation proje
 
 ### **Tools and Technologies:**  
 
-<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/html.png"></code>
-<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/css.png"></code>
-<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/bootstrap.png"></code>
-<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/JavaScript.png"></code>
-<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/jquery.png"></code>
-<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/ajax.png"></code>
-<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/json1.png"></code>
-<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/php.png"></code>
-<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/oop.png"></code>
-<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/mysql.png"></code>
-<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/laravel.png"></code>
-<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/api.png"></code>
-<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/git.png"></code>
-
 <table align="center" style="width:100%">
   <tr>
     <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/html.png"></code></td>
@@ -39,9 +25,9 @@ Mohamed Azab fresh graduated student with an excellent grade in graduation proje
   </tr>
   <tr>
     <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/ajax.png"></code></td>
-    <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/json1.png"></code></td>>
+    <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/json1.png"></code></td>
     <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/php.png"></code></td>
-    <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/oop.png"></code></td>>
+    <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/oop.png"></code></td>
     <td><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/mysql.png"></code></td>
   </tr>
   <tr>
