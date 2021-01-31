@@ -8,6 +8,7 @@ Mohamed Azab fresh graduated student with an excellent grade in graduation proje
 <br>
 
 <p align="center">
+  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)
   <a class="bg-dark" href="https://www.linkedin.com/in/mohamed-azab-4724641a0/"><img height="17" src="https://github.com/moazab87/moazab87/blob/main/assets/linkedin.png"> Linkedin</a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
