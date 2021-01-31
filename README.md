@@ -5,11 +5,6 @@ Mohamed Azab fresh graduated student with an excellent grade in graduation proje
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on Laravel projects.
 - 📫 How to reach me: send me email on moazab87@gmail.com.
-<br>
-
-<p align="center">
-  <a class="text-decoration-none" href="https://www.linkedin.com/in/mohamed-azab-4724641a0/"><img height="17" src="https://github.com/moazab87/moazab87/blob/main/assets/linkedin.png"> Linkedin</a>
-</p>
 
 <br> <br>
 
