@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 Mohamed Azab fresh graduated student with an excellent grade in graduation project from CIS Faculty, Mansoura University, Egypt.
 
