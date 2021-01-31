@@ -8,7 +8,7 @@ Mohamed Azab fresh graduated student with an excellent grade in graduation proje
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-azab-4724641a0/"><img height="17" src="https://github.com/moazab87/moazab87/blob/main/assets/linkedin.png"> Linkedin</a>
+  <a class="text-decoration-none" href="https://www.linkedin.com/in/mohamed-azab-4724641a0/"><img height="17" src="https://github.com/moazab87/moazab87/blob/main/assets/linkedin.png"> Linkedin</a>
 </p>
 
 <br> <br>
