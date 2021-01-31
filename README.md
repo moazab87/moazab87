@@ -13,16 +13,16 @@ Mohamed Azab fresh graduated student with an excellent grade in graduation proje
 
 **Languages and Tools:**  
 
-<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/html.png"></code>
-<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/css.png"></code>
-<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/bootstrap.png"></code>
-<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/JavaScript.png"></code>
-<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/jquery.png"></code> <br>
-<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/ajax.png"></code>
-<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/json1.png"></code>
-<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/php.png"></code>
-<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/oop.png"></code>
-<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/mysql.png"></code>
-<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/laravel.png"></code>
-<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/api.png"></code>
-<code><img height="40" src="https://github.com/moazab87/moazab87/blob/main/assets/git.png"></code>
+<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/html.png"></code>
+<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/css.png"></code>
+<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/bootstrap.png"></code>
+<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/JavaScript.png"></code>
+<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/jquery.png"></code>
+<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/ajax.png"></code>
+<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/json1.png"></code>
+<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/php.png"></code>
+<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/oop.png"></code>
+<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/mysql.png"></code>
+<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/laravel.png"></code>
+<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/api.png"></code>
+<code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/git.png"></code>
