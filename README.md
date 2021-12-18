@@ -35,6 +35,5 @@ Mohamed Azab fresh graduated student with an excellent grade in graduation proje
     <td align="center"><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/laravel.png"></code></td>
     <td align="center"><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/api.png"></code></td>
     <td align="center"><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/git.png"></code></td>
-    <td align="center"><code><img height="60" src="https://github.com/moazab87/moazab87/blob/main/assets/DS.png"></code></td>
   </tr>
 </table>
