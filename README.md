@@ -1,7 +1,9 @@
 
 ### **Social Media:** 
-<a href="moazab87@gmail.com"><img align=”left” src="https://github.com/moazab87/moazab87/blob/main/assets/linkedin.png" alt="icon | LinkedIn" width="100px"/></a>                                                                                    
-<a href="moazab87@gmail.com"><img align=”left” src="https://github.com/moazab87/moazab87/blob/main/assets/gmail.png" alt="icon | LinkedIn" width="100px"/></a>                                                                                    
+<p align="center">
+  <a href="moazab87@gmail.com"><img align=”left” src="https://github.com/moazab87/moazab87/blob/main/assets/linkedin.png" alt="icon | LinkedIn" target=”_blank”              width="100px"/></a>                                                                                    
+  <a href="moazab87@gmail.com"><img align=”left” src="https://github.com/moazab87/moazab87/blob/main/assets/gmail.png" alt="icon | LinkedIn" target=”_blank”                width="100px"/></a> 
+ </p>
 
 
 
