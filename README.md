@@ -7,6 +7,7 @@ Mohamed Azab, software engineer who is keeping his skills updated and learning M
 - 🌱 Seeking to work for high level places.
 - 🏃 Eager to do my best in projects
 - 🔥 Enhancing my skills in computer science core studies (as problem solving).
+- 👯 I’m looking to collaborate on Laravel projects
 - 📫 How to reach me: send me email on moazab87@gmail.com.
 
 <br> <br>
