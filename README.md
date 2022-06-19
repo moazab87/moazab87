@@ -49,4 +49,4 @@ Mohamed Azab, software engineer who is keeping his skills updated and learning M
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-azab-4724641a0/)
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mo.azab.87/)
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/moazab87/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Mohamed01hossam)
+[![Twitter](https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/moazab87/)
