@@ -1,9 +1,12 @@
 ### Hi there👋
 
-Mohamed Azab fresh graduated student with an excellent grade in graduation project from CIS Faculty, Mansoura University, Egypt.
 
-- 🌱 I’m currently learning Web Development.
-- 👯 I’m looking to collaborate on Laravel projects.
+Mohamed Azab, software engineer who is keeping his skills updated and learning Modern technologies
+-  Bachelor's degree, faculty of Computer & Information Mansoura University. Egypt.
+- ⭐ Interested in PHP and Laravel to develop web applications.
+- 🌱 Seeking to work for high level places.
+- 🏃 Eager to do my best in projects
+- 🔥 Enhancing my skills in computer science core studies (as problem solving).
 - 📫 How to reach me: send me email on moazab87@gmail.com.
 
 <br> <br>
