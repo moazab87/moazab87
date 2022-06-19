@@ -1,6 +1,4 @@
-<p align=”center”>
-  <img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-</p>                                                                                    
+<a href="https://www.linkedin.com/in/mohamed-azab-4724641a0/"><img align=”left” src="https://github.com/moazab87/moazab87/blob/main/assets/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>                                                                                    
 
 
 
