@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohamed Azab 👋</h1>
 
-Mohamed Azab, software engineer who is keeping his skills updated and learning Modern technologies
+Software engineer who is keeping his skills updated and learning Modern technologies
 -  Bachelor's degree, faculty of Computer & Information Mansoura University. Egypt.
 - ⭐ I'm a passionate Laravel backend developer from Egypt 🇪🇬
 - 🌱 I love writing clean, scalable, and testable code
